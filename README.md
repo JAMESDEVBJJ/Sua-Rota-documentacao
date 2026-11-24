@@ -73,7 +73,7 @@ SUA ROTA DOCUMENTAÇÃO/
   * *Contém: Casos de Uso, Classes de Domínio, Sequência, Atividades, Componentes e Execução/Implantação.*
 
 ### 4. Planejamento e Design (`04-planejamento-agil/` e `05-prototipo/`)
-* 📌 [Quadro Kanban / Trello](./04-planejamento-agil/trelloQUadro.png)
+* 📌 [Quadro Kanban / Trello](./04-planejamento-agil/trelloQuadro.png)
 * 🎨 [Imagens e Telas do Protótipo](./05-prototipo/)
 
 ---
