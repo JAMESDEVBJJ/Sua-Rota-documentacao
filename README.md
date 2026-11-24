@@ -1,4 +1,4 @@
-# 🗺️ Sua Rota — Documentação do Sistema (N2)
+# 🗺️ Sua Rota — Documentação do Sistema 
 
 > **Projeto de Modelagem de Software / PMI II**  
 > Documentação técnica, Especificação de Requisitos de Software (ERS) e Diagramas UML do sistema **Sua Rota** — plataforma colaborativa de mapeamento e percepção urbana.
@@ -26,16 +26,7 @@ O **Sua Rota** é um sistema voltado para o mapeamento e análise colaborativa d
 
 ## 📐 Artefatos e Diagramas UML
 
-Todos os diagramas foram modelados utilizando a ferramenta [draw.io](https://app.diagrams.net/). Os arquivos editáveis (`.drawio`) e as versões exportadas (`.pdf` / `.png`) estão disponíveis nos links abaixo:
-
-| # | Diagrama | Descrição principal | Arquivo |
-| :-: | :--- | :--- | :-: |
-| **01** | **Casos de Uso** | Atores, escopo do sistema, inclusões (`<<include>>`), extensões (`<<extend>>`) e herança de papeis. | [`diagramas/01-casos-de-uso.pdf`](./diagramas/01-casos-de-uso.pdf) |
-| **02** | **Classes de Domínio** | Entidades de negócio (`Usuario`, `Local`, `Contribuicao`, etc.), multiplicidades, enums e interfaces (`Denunciavel`). | [`diagramas/02-classes-dominio.pdf`](./diagramas/02-classes-dominio.pdf) |
-| **05** | **Sequência** | Fluxo cronológico do `UC14 - Avaliar local por critério` com tratamento de exceções (HTTP 401, 422, 409, 201). | [`diagramas/05-sequencia.pdf`](./diagramas/05-sequencia.pdf) |
-| **07** | **Atividades** | Fluxo de processo para denunciar e moderar conteúdo, separando raias do usuário, sistema e moderador. | [`diagramas/07-atividades.pdf`](./diagramas/07-atividades.pdf) |
-| **08** | **Componentes** | Organização modular da aplicação em subsistemas (Front-end SPA, Back-end API, Persistência e Integrações externas). | [`diagramas/08-componentes.pdf`](./diagramas/08-componentes.pdf) |
-| **09** | **Execução (Implantação)** | Nós de hardware, ambientes de execução, artefatos gerados e protocolos de comunicação de rede. | [`diagramas/09-execucao.pdf`](./diagramas/09-execucao.pdf) |
+Todos os diagramas foram modelados utilizando a ferramenta [draw.io](https://app.diagrams.net/). Os arquivos editáveis (`.drawio`) e as versões exportadas (`.pdf` / `.png`)
 
 ---
 
